@@ -197,7 +197,7 @@ int addHour24()
 //function to add hour to the 12 hour clock
 int addHour()
 {
-	if (hour.myNum == 23)//conditional to reset the hours so it doesnt run on
+	if (hour.myNum > 23)//conditional to reset the hours so it doesnt run on
 	{
 		hour.myNum = 1;//resets the hours to 1 after 12 am(24)
 		
@@ -235,6 +235,10 @@ int addSecond()
 	}
 	return second.myNum; // return the new value
 }
+void clrscr()
+{
+	system("cls");
+}
 //main function that will call functions to execute this program
 int main()
 {
@@ -251,6 +255,7 @@ int main()
 		duoClockDisplay();//display current preset time
 		menuDisplay();//display menu options
 		i.myNum = menuInput();//collect users input choice of 1,2,3, or 4
+		clrscr();
 	
 	}
 	cout << "Thank you for using the clock display, Goodbye! :)"; // message to let the user know that the program has ended
