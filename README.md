@@ -22,4 +22,4 @@ Lastly, I would like to add a wakeup time as an alarm implementation.
 
 
 #                                                                     Private?
-Yes, this repository is private because it is very easy for someone to tpe in the project name along with the university name and get a free solution to the project. So to prevent future students from cheating I will do my part by making sure I keep repositories like this private.
+Yes, this repository is private because it is very easy for someone to type in the project name along with the university name and get a free solution to the project, which could hurt the integrity of the universitys curriculum that it offers students if the projects are just one click away from an "Easy good grade" as well as hurt future students that are looking to showcase this work to employers. So to prevent future students from cheating I will do my part by making sure I keep repositories like this private.
