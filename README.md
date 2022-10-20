@@ -1,4 +1,4 @@
-#Clock-Project
+#                                                                 Clock-Project
 This is a school project that I have worked on through Southern New Hampshire University that highlights my proficiency in the C++ language.
 The goal of this project is to display a clock with a preset time (Not local time) via parameters.
 The program should be able to display two clocks at the same time, one in the 12-hour format (11:37:32 PM) and the other in a 24-hour format (22:45:36) HH:MM:SS
@@ -14,12 +14,12 @@ The work was mostly done locally on my machine through VisualStudio.
 I learned how to create repositories, commit and push from the environment and thats how i brought it to github.
 This was a great learning experience that taught me a little about how to version control, and not have to open up github to push my work.
 
-#Going Forward
+#                                                                 Going Forward
 Going forward I plan on making improvements to the clock.
 Some ideas that I have on the list right now are for it read the time locally.
 I also want the clock to display the current date.
 Lastly, I would like to add a wakeup time as an alarm implementation.
 
 
-#Private?
+#                                                                     Private?
 Yes, this repository is private because it is very easy for someone to tpe in the project name along with the university name and get a free solution to the project. So to prevent future students from cheating I will do my part by making sure I keep repositories like this private.
